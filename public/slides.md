@@ -38,7 +38,7 @@
 
 <!-- .slide: class="cover" -->
 
-<p class="cover-rail-label">DESK<br>DEVICE<br>2026</p>
+<p class="cover-rail-label">DESK<br>SETUP<br>2026</p>
 <p class="cover-chapter">CHAPTER 01</p>
 
 # Desk
@@ -86,7 +86,7 @@
 
 <!-- .slide: class="cover" -->
 
-<p class="cover-rail-label">DESK<br>SHELF<br>2026</p>
+<p class="cover-rail-label">DESK<br>SETUP<br>2026</p>
 <p class="cover-chapter">CHAPTER 02</p>
 
 # Desk Shelf
@@ -359,7 +359,7 @@ gridfinityというグリッド形式を採用した収納システムを利用�
 
 <!-- .slide: class="cover" -->
 
-<p class="cover-rail-label">DESK<br>SUMMARY<br>2026</p>
+<p class="cover-rail-label">DESK<br>SETUP<br>2026</p>
 <p class="cover-chapter">FINAL CHAPTER</p>
 
 # Summary
