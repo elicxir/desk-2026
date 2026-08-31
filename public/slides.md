@@ -214,21 +214,19 @@
 PLAシルクという素材を用いて光沢感のある仕上がりにしたため、シェルフ上に置いたときに見栄えが良い。
 
 <div class="three-column-slide" style="--three-column-columns: 2fr 2fr 3fr;">
-<img src="./image_desk/IMG_0472 (1).jpg" class="slide-image" style="height:460px; object-fit:contain; transform:translateY(20px);">
   <div>
   <img src="./image_3dp/simpletray.jpg" class="slide-image" style="display:block; max-height:350px; margin:0 auto; object-fit:contain;">
   </div>
 
+  <div>
   <img src="./image_3dp/ws.jpg" class="slide-image" style="display:block; height:260px; margin:0 auto; object-fit:contain;">
   </div>
 
   <div>
   <img src="./image_3dp/IMG_0460 (1).jpg" class="slide-image" style="display:block; max-height:350px; margin:0 auto; object-fit:contain;">
-<img src="./image_desk/image.png" class="slide-image" style="max-height:350px; object-fit:contain;">
+  </div>
 </div>
 
-
-<img src="./image_desk/desk.jpg" class="slide-image" style="height:460px; object-fit:contain; transform:translateY(20px);">
 --
 
 <p class="eyebrow">3D printed items</p>
@@ -240,67 +238,69 @@ PLAシルクという素材を用いて光沢感のある仕上がりにした�
 <div class="slide-copy">
 <img src="./image_3dp/usbhub.jpg" class="slide-image" style="display:block; max-height:350px; margin:0 auto; object-fit:contain;">
 </div>
-<img src="./image_desk/shelf.jpg" class="slide-image" style="display:block; height:350px; margin:0 auto; object-fit:contain;">
+<div class="slide-visual image-stack">
 <img src="./image_3dp/hub2.png" class="slide-image">
-
 <div class="image-pair">
-<img src="./image_3dp/IMG_0450.jpg" class="slide-image" style="display:block; max-height:160px; margin:0 auto; object-fit:contain;">
+<img src="./image_3dp/IMG_0449.jpg" class="slide-image">
+<img src="./image_3dp/IMG_0450.jpg" class="slide-image">
 </div>
-<img src="./images/deskshelf.png" alt="完成したデバイス" class="slide-image" style="display:block;max-height:350px; object-fit:contain; margin:0 auto;">
+</div>
+</div>
 
 --
-<img src="./image_cm/image.png" class="slide-image" style="display:block; max-height:350px; margin:0 auto; object-fit:contain;">
- 
+
+<p class="eyebrow">3D printed items</p>
+
 ## マグネット式ドックマウンタ
-<img src="./image_cm/image2.png" class="slide-image" style="display:block; max-height:600px; margin:0 auto; object-fit:contain;">
+サブPC用。スチール製トレーの下にドックを取り付け可能にするパーツ。<br>
 小型の円柱型マグネットを埋め込むことができるような穴をあけてある。
 
-<img src="./image_3dp/IMG_0457 (1).jpg" class="slide-image" style="display:block; height:350px; margin:0 auto; object-fit:contain;">
 <div class="two-column-slide">
 <div class="slide-copy">
-<img src="./image_3dp/simpletray.jpg" class="slide-image" style="display:block; max-height:350px; margin:0 auto; object-fit:contain;">
+<img src="./image_3dp/mmag.jpg" class="slide-image" style="display:block; max-height:350px; margin:0 auto; object-fit:contain;">
+</div>
 <div class="slide-visual image-stack">
 <img src="./image_3dp/mmag_2.jpg" class="slide-image">
-<img src="./image_3dp/ws.jpg" class="slide-image" style="display:block; height:260px; margin:0 auto; object-fit:contain;">
-
+<img src="./image_3dp/IMG_0457 (1).jpg" class="slide-image">
 </div>
-<img src="./image_3dp/IMG_0460 (1).jpg" class="slide-image" style="display:block; max-height:350px; margin:0 auto; object-fit:contain;">
+</div>
+
 --
 
-<img src="./image_3dp/usbhub.jpg" class="slide-image" style="display:block; max-height:350px; margin:0 auto; object-fit:contain;">
-## キーボード & パームレスト 収納モジュール
+<p class="eyebrow">3D printed items</p>
 
-<img src="./image_3dp/hub2.png" class="slide-image">
+## キーボード & パームレスト 収納モジュール
+シェルフの拡張モジュール。食事や読書の際にキーボードをシェルフ下に格納することを目的として設計。
+
 <div class="two-column-slide">
 <div class="slide-copy">
-<img src="./image_3dp/IMG_0449.jpg" class="slide-image" style="display:block; max-height:160px; margin:0 auto; object-fit:contain;">
+<img src="./image_3dp/keyb.jpg" class="slide-image" style="display:block; height:240px; margin:0 auto; object-fit:contain;">
 <p style="width:fit-content; margin:0 auto; font-size:0.56em; text-align:left;">キーボードとパームレストを収納した場合のイメージ。<br>テンキーレスキーボードを左右2つの台座で支える設計。</p>
-
-<img src="./image_3dp/IMG_0450.jpg" class="slide-image" style="display:block; max-height:160px; margin:0 auto; object-fit:contain;">
+</div>
 <div class="slide-copy">
 <img src="./image_3dp/stand.jpg" class="slide-image" style="display:block; height:240px; margin:0 auto; object-fit:contain;">
-<img src="./image_3dp/mmag.jpg" class="slide-image" style="display:block; max-height:350px; margin:0 auto; object-fit:contain;">
-
+<p style="width:fit-content; margin:0 auto; font-size:0.56em; text-align:left;">3つのパーツを組み合わせる形式で設計。パーツはねじで接続する。<br>シェルフ取付用に70mm間隔の2つのネジ穴をあけている。</p>
 </div>
-<img src="./image_3dp/mmag_2.jpg" class="slide-image">
+</div>
 
 --
-<img src="./image_3dp/keyb.jpg" class="slide-image" style="display:block; height:240px; margin:0 auto; object-fit:contain;">
 
+<p class="eyebrow">3D printed items</p>
+
+## キーボード & パームレスト 収納モジュール
 実際に使ってみた。
-<img src="./image_3dp/stand.jpg" class="slide-image" style="display:block; height:240px; margin:0 auto; object-fit:contain;">
+
+<div class="two-column-slide">
 <div class="slide-copy">
 <img src="./image_3dp/IMG_0461.jpg" class="slide-image" style="display:block; height:320px; margin:0 auto; object-fit:contain;">
-<img src="./image_3dp/IMG_0463.jpg" class="slide-image" style="display:block; height:320px; margin:0 auto; object-fit:contain;">
-
+<p style="width:fit-content; margin:0 auto; font-size:0.56em; text-align:left;">イメージ通りに収納できている。<br>キーボードを奥で支えているため、手前から取り出しやすい。</p>
 </div>
-<img src="./image_3dp/tray2.jpg" class="slide-image" style="display:block; height:330px; margin:0 auto; object-fit:contain;">
+<div class="slide-copy">
 <img src="./image_3dp/IMG_0463.jpg" class="slide-image" style="display:block; height:320px; margin:0 auto; object-fit:contain;">
-
-<img src="./image_3dp/IMG_0470 (1).jpg" class="slide-image" style="display:block; height:320px; margin:0 auto; object-fit:contain;">
+<p style="width:fit-content; margin:0 auto; font-size:0.56em; text-align:left;">パームレスト収納部を手前に寄せることで、<br>モニターアームの台座部分との干渉を抑えている。</p>
+</div>
 </div>
 
-<img src="./image_3dp/IMG_0453 (1).jpg" class="slide-image" style="display:block; height:320px; margin:0 auto; object-fit:contain;">
 
 --
 
