@@ -24,7 +24,7 @@
 <div class="two-column-slide" style="--two-column-columns: 5fr 3fr;">
 
 <div class="slide-visual">
-<img src="/image_desk/IMG_0472 (1).jpg" class="slide-image" style="height:460px; object-fit:contain; transform:translateY(20px);">
+<img src="./image_desk/IMG_0472 (1).jpg" class="slide-image" style="height:460px; object-fit:contain; transform:translateY(20px);">
 </div>
 
 <div class="slide-copy">
@@ -54,7 +54,7 @@
 既製品のトレーや引き出しを検討し、取り付ける場所と必要なねじ穴の位置を確認する。<br>
 今回は3つの製品と電動昇降脚を取り付けることにした。
 
-<img src="/image_desk/image.png" class="slide-image" style="max-height:350px; object-fit:contain;">
+<img src="./image_desk/image.png" class="slide-image" style="max-height:350px; object-fit:contain;">
 
 --
 
@@ -67,7 +67,7 @@
 <div class="two-column-slide" style="--two-column-columns: 5fr 3fr;">
 
 <div class="slide-visual">
-<img src="/image_desk/desk.jpg" class="slide-image" style="height:460px; object-fit:contain; transform:translateY(20px);">
+<img src="./image_desk/desk.jpg" class="slide-image" style="height:460px; object-fit:contain; transform:translateY(20px);">
 </div>
 
 <div class="slide-copy" style="font-size:0.8em;" >
@@ -101,14 +101,14 @@
 
 <div class="two-column-slide">
 <div class="slide-copy">
-<img src="\image_desk\IMG_0473.jpg" class="slide-image" style="display:block; height:350px; margin:0 auto; object-fit:contain;">
+<img src="./image_desk/IMG_0473.jpg" class="slide-image" style="display:block; height:350px; margin:0 auto; object-fit:contain;">
 
 <p style="width:fit-content; margin:0 auto; font-size:0.56em; text-align:left;">完成したデスクシェルフ。<br>デスク天板と同じ木材を利用しているため統一感がある。</p>
 
 </div>
 
 <div class="slide-copy">
-<img src="/image_desk/shelf.jpg" class="slide-image" style="display:block; height:350px; margin:0 auto; object-fit:contain;">
+<img src="./image_desk/shelf.jpg" class="slide-image" style="display:block; height:350px; margin:0 auto; object-fit:contain;">
 
 <p style="width:fit-content; margin:0 auto; font-size:0.56em; text-align:left;">イメージの明確化や拡張モジュール(後述)の設計のために<br>3Dモデルを作成。</p>
 
@@ -124,7 +124,7 @@
 
 木材加工業者に提出した図面。<br>内側に2x4個の鬼目ナット(図中:緑)を埋め込み、拡張モジュールの取り付けに対応するようにした。
 
-<img src="/images/deskshelf.png" alt="完成したデバイス" class="slide-image" style="display:block;max-height:350px; object-fit:contain; margin:0 auto;">
+<img src="./images/deskshelf.png" alt="完成したデバイス" class="slide-image" style="display:block;max-height:350px; object-fit:contain; margin:0 auto;">
 
 
 ---
@@ -147,7 +147,7 @@
 2台のPCそれぞれからデュアルモニター環境を利用できるようにした。<br>
 昇降デスクの可動域を考慮する必要があるため可能な限り天板裏に集約していく。
 
-<img src="/image_cm/image.png" class="slide-image" style="display:block; max-height:350px; margin:0 auto; object-fit:contain;">
+<img src="./image_cm/image.png" class="slide-image" style="display:block; max-height:350px; margin:0 auto; object-fit:contain;">
 
 --
 
@@ -159,10 +159,10 @@
 
 <div class="two-column-slide">
 <div class="slide-visual">
-<img src="/image_cm/image.png" class="slide-image" style="display:block; max-height:500px; margin:0 auto; object-fit:contain;">
+<img src="./image_cm/image.png" class="slide-image" style="display:block; max-height:500px; margin:0 auto; object-fit:contain;">
 </div>
 <div class="slide-visual">
-<img src="/image_cm/image2.png" class="slide-image" style="display:block; max-height:600px; margin:0 auto; object-fit:contain;">
+<img src="./image_cm/image2.png" class="slide-image" style="display:block; max-height:600px; margin:0 auto; object-fit:contain;">
 
 
 </div>
@@ -179,14 +179,14 @@
 
 <div class="two-column-slide">
 <div class="slide-copy">
-<img src="\image_cm\IMG_0438.jpg" class="slide-image" style="display:block; height:350px; margin:0 auto; object-fit:contain;">
+<img src="./image_cm/IMG_0438.jpg" class="slide-image" style="display:block; height:350px; margin:0 auto; object-fit:contain;">
 
 <p style="width:fit-content; margin:0 auto; font-size:0.56em; text-align:left;">モニターへのケーブルはモニターアームを利用してできるだけ隠す。<br>アーム支柱へケーブルを固定するパーツも3Dプリンタで作成。</p>
 
 </div>
 
 <div class="slide-copy">
-<img src="/image_3dp/IMG_0457 (1).jpg" class="slide-image" style="display:block; height:350px; margin:0 auto; object-fit:contain;">
+<img src="./image_3dp/IMG_0457 (1).jpg" class="slide-image" style="display:block; height:350px; margin:0 auto; object-fit:contain;">
 
 <p style="width:fit-content; margin:0 auto; font-size:0.56em; text-align:left;">ドックとその周辺のケーブルはマグネットを利用して固定している。<br>マグネットを埋め込んだパーツを3Dプリンタで作成。</p>
 
@@ -214,115 +214,93 @@
 PLAシルクという素材を用いて光沢感のある仕上がりにしたため、シェルフ上に置いたときに見栄えが良い。
 
 <div class="three-column-slide" style="--three-column-columns: 2fr 2fr 3fr;">
-
+<img src="./image_desk/IMG_0472 (1).jpg" class="slide-image" style="height:460px; object-fit:contain; transform:translateY(20px);">
   <div>
-  <img src="/image_3dp/simpletray.jpg" class="slide-image" style="display:block; max-height:350px; margin:0 auto; object-fit:contain;">
+  <img src="./image_3dp/simpletray.jpg" class="slide-image" style="display:block; max-height:350px; margin:0 auto; object-fit:contain;">
+  </div>
+
+  <img src="./image_3dp/ws.jpg" class="slide-image" style="display:block; height:260px; margin:0 auto; object-fit:contain;">
   </div>
 
   <div>
-  <img src="/image_3dp/ws.jpg" class="slide-image" style="display:block; height:260px; margin:0 auto; object-fit:contain;">
-  </div>
-
-  <div>
-  <img src="/image_3dp/IMG_0460 (1).jpg" class="slide-image" style="display:block; max-height:350px; margin:0 auto; object-fit:contain;">
-  </div>
-
+  <img src="./image_3dp/IMG_0460 (1).jpg" class="slide-image" style="display:block; max-height:350px; margin:0 auto; object-fit:contain;">
+<img src="./image_desk/image.png" class="slide-image" style="max-height:350px; object-fit:contain;">
 </div>
 
 
-
+<img src="./image_desk/desk.jpg" class="slide-image" style="height:460px; object-fit:contain; transform:translateY(20px);">
 --
 
 <p class="eyebrow">3D printed items</p>
 
 ## シェルフ用USBハブマウンタ
 
-Ankerの薄型USBハブをネジどめできるようにするパーツ。シェルフ用拡張モジュールの一種。
 
 <div class="two-column-slide">
 <div class="slide-copy">
-<img src="/image_3dp/usbhub.jpg" class="slide-image" style="display:block; max-height:350px; margin:0 auto; object-fit:contain;">
+<img src="./image_3dp/usbhub.jpg" class="slide-image" style="display:block; max-height:350px; margin:0 auto; object-fit:contain;">
 </div>
-<div class="slide-visual image-stack" >
-<img src="/image_3dp/hub2.png" class="slide-image">
+<img src="./image_desk/shelf.jpg" class="slide-image" style="display:block; height:350px; margin:0 auto; object-fit:contain;">
+<img src="./image_3dp/hub2.png" class="slide-image">
 
 <div class="image-pair">
-<img src="/image_3dp/IMG_0449.jpg" class="slide-image" style="display:block; max-height:160px; margin:0 auto; object-fit:contain;">
-<img src="/image_3dp/IMG_0450.jpg" class="slide-image" style="display:block; max-height:160px; margin:0 auto; object-fit:contain;">
+<img src="./image_3dp/IMG_0450.jpg" class="slide-image" style="display:block; max-height:160px; margin:0 auto; object-fit:contain;">
 </div>
-</div>
-</div>
+<img src="./images/deskshelf.png" alt="完成したデバイス" class="slide-image" style="display:block;max-height:350px; object-fit:contain; margin:0 auto;">
 
 --
-
-<p class="eyebrow">3D printed items</p>
+<img src="./image_cm/image.png" class="slide-image" style="display:block; max-height:350px; margin:0 auto; object-fit:contain;">
  
 ## マグネット式ドックマウンタ
-
-サブPC用。スチール製トレーの下にドックを取り付け可能にするパーツ。<br>
+<img src="./image_cm/image2.png" class="slide-image" style="display:block; max-height:600px; margin:0 auto; object-fit:contain;">
 小型の円柱型マグネットを埋め込むことができるような穴をあけてある。
 
-
-
+<img src="./image_3dp/IMG_0457 (1).jpg" class="slide-image" style="display:block; height:350px; margin:0 auto; object-fit:contain;">
 <div class="two-column-slide">
 <div class="slide-copy">
-<img src="/image_3dp/mmag.jpg" class="slide-image" style="display:block; max-height:350px; margin:0 auto; object-fit:contain;">
-</div>
+<img src="./image_3dp/simpletray.jpg" class="slide-image" style="display:block; max-height:350px; margin:0 auto; object-fit:contain;">
 <div class="slide-visual image-stack">
-<img src="/image_3dp/mmag_2.jpg" class="slide-image">
-
-<img src="/image_3dp/IMG_0457 (1).jpg" class="slide-image">
+<img src="./image_3dp/mmag_2.jpg" class="slide-image">
+<img src="./image_3dp/ws.jpg" class="slide-image" style="display:block; height:260px; margin:0 auto; object-fit:contain;">
 
 </div>
-</div>
-
+<img src="./image_3dp/IMG_0460 (1).jpg" class="slide-image" style="display:block; max-height:350px; margin:0 auto; object-fit:contain;">
 --
 
-<p class="eyebrow">3D printed items</p>
-
+<img src="./image_3dp/usbhub.jpg" class="slide-image" style="display:block; max-height:350px; margin:0 auto; object-fit:contain;">
 ## キーボード & パームレスト 収納モジュール
 
-シェルフの拡張モジュール。食事や読書の際にキーボードをシェルフ下に格納することを目的として設計。
-
+<img src="./image_3dp/hub2.png" class="slide-image">
 <div class="two-column-slide">
 <div class="slide-copy">
-<img src="/image_3dp/keyb.jpg" class="slide-image" style="display:block; height:240px; margin:0 auto; object-fit:contain;">
-
+<img src="./image_3dp/IMG_0449.jpg" class="slide-image" style="display:block; max-height:160px; margin:0 auto; object-fit:contain;">
 <p style="width:fit-content; margin:0 auto; font-size:0.56em; text-align:left;">キーボードとパームレストを収納した場合のイメージ。<br>テンキーレスキーボードを左右2つの台座で支える設計。</p>
 
-</div>
-
+<img src="./image_3dp/IMG_0450.jpg" class="slide-image" style="display:block; max-height:160px; margin:0 auto; object-fit:contain;">
 <div class="slide-copy">
-<img src="/image_3dp/stand.jpg" class="slide-image" style="display:block; height:240px; margin:0 auto; object-fit:contain;">
-
-<p style="width:fit-content; margin:0 auto; font-size:0.56em; text-align:left;">3つのパーツを組み合わせる形式で設計。パーツはねじで接続する。<br>シェルフ取付用に70mm間隔の2つのネジ穴をあけている。</p>
-
-</div>
+<img src="./image_3dp/stand.jpg" class="slide-image" style="display:block; height:240px; margin:0 auto; object-fit:contain;">
+<img src="./image_3dp/mmag.jpg" class="slide-image" style="display:block; max-height:350px; margin:0 auto; object-fit:contain;">
 
 </div>
+<img src="./image_3dp/mmag_2.jpg" class="slide-image">
 
 --
-
-## キーボード & パームレスト 収納モジュール
+<img src="./image_3dp/keyb.jpg" class="slide-image" style="display:block; height:240px; margin:0 auto; object-fit:contain;">
 
 実際に使ってみた。
-
-<div class="two-column-slide">
+<img src="./image_3dp/stand.jpg" class="slide-image" style="display:block; height:240px; margin:0 auto; object-fit:contain;">
 <div class="slide-copy">
-<img src="\image_3dp\IMG_0461.jpg" class="slide-image" style="display:block; height:320px; margin:0 auto; object-fit:contain;">
-
-<p style="width:fit-content; margin:0 auto; font-size:0.56em; text-align:left;">イメージ通りに収納できている。<br>キーボードを奥で支えているため、手前から取り出しやすい。</p>
-
-</div>
-
-<div class="slide-copy">
-<img src="/image_3dp/IMG_0463.jpg" class="slide-image" style="display:block; height:320px; margin:0 auto; object-fit:contain;">
-
-<p style="width:fit-content; margin:0 auto; font-size:0.56em; text-align:left;">パームレスト収納部を手前に寄せることで、<br>モニターアームの台座部分との干渉を抑えている。</p>
+<img src="./image_3dp/IMG_0461.jpg" class="slide-image" style="display:block; height:320px; margin:0 auto; object-fit:contain;">
+<img src="./image_3dp/IMG_0463.jpg" class="slide-image" style="display:block; height:320px; margin:0 auto; object-fit:contain;">
 
 </div>
+<img src="./image_3dp/tray2.jpg" class="slide-image" style="display:block; height:330px; margin:0 auto; object-fit:contain;">
+<img src="./image_3dp/IMG_0463.jpg" class="slide-image" style="display:block; height:320px; margin:0 auto; object-fit:contain;">
 
+<img src="./image_3dp/IMG_0470 (1).jpg" class="slide-image" style="display:block; height:320px; margin:0 auto; object-fit:contain;">
 </div>
+
+<img src="./image_3dp/IMG_0453 (1).jpg" class="slide-image" style="display:block; height:320px; margin:0 auto; object-fit:contain;">
 
 --
 
@@ -333,14 +311,14 @@ gridfinityというグリッド形式を採用した収納システムを利用�
 
 <div class="two-column-slide" style="--two-column-height: 400px;">
 <div class="slide-copy">
-<img src="\image_3dp\tray1.jpg" class="slide-image" style="display:block; height:330px; margin:0 auto; object-fit:contain;">
+<img src="./image_3dp/tray1.jpg" class="slide-image" style="display:block; height:330px; margin:0 auto; object-fit:contain;">
 
 <p style="width:fit-content; margin:0 auto; font-size:0.56em; text-align:left;">まずは引き出しの3Dモデルを作成。これをもとに仕切りを設計。<br>印刷時の誤差を加味して0.8mm程度大きめに作るのがコツ。</p>
 
 </div>
 
 <div class="slide-copy">
-<img src="/image_3dp/tray2.jpg" class="slide-image" style="display:block; height:330px; margin:0 auto; object-fit:contain;">
+<img src="./image_3dp/tray2.jpg" class="slide-image" style="display:block; height:330px; margin:0 auto; object-fit:contain;">
 
 <p style="width:fit-content; margin:0 auto; font-size:0.56em; text-align:left;">手前の傾斜を均すスペーサーを入れつつグリッドを配置。<br>左右と奥の余白は埋めてグリッドが固定されるようにする。</p>
 
@@ -357,7 +335,7 @@ gridfinityというグリッド形式を採用した収納システムを利用�
 
 <div class="two-column-slide">
 <div class="slide-copy">
-<img src="\image_3dp\image copy.png" class="slide-image" style="display:block; height:330px; margin:0 auto; object-fit:contain;">
+<img src="./image_3dp/image copy.png" class="slide-image" style="display:block; height:330px; margin:0 auto; object-fit:contain;">
 
 <p style="width:fit-content; margin:0 auto; font-size:0.56em; text-align:left;"></p>
 
@@ -365,11 +343,11 @@ gridfinityというグリッド形式を採用した収納システムを利用�
 
 <div class="slide-copy image-text-stack" style="--image-text-height: 400px;">
 <div class="image-text-row" style="--image-text-row-height: 180px; --image-text-gap: 16px;">
-<img src="/image_3dp/IMG_0470 (1).jpg" class="slide-image" style="object-fit:cover;">
+<img src="./image_3dp/IMG_0470 (1).jpg" class="slide-image" style="object-fit:cover;">
 <p style="width:100%; max-width:none; margin:0; font-size:0.56em; text-align:left;">ペントレイは二段式。<br>下にハサミやカッターなどの<br>薄い道具を収納できる。</p>
 </div>
 <div class="image-text-row" style="--image-text-row-height: 180px;">
-<img src="/image_3dp/IMG_0453 (1).jpg" class="slide-image">
+<img src="./image_3dp/IMG_0453 (1).jpg" class="slide-image">
 <p style="font-size:0.56em;">印鑑用のモジュール。<br>gridfinity用の足をベースに<br>印鑑用のくぼみを入れた。</p>
 </div>
 

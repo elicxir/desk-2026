@@ -9,7 +9,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div class="reveal">
     <div class="slides">
       <section
-        data-markdown="/slides.md"
+        data-markdown="./slides.md"
         data-separator="^---$"
         data-separator-vertical="^--$"
         data-separator-notes="^Note:"
@@ -41,7 +41,7 @@ const defaultDeckConfig: DeckConfig = {
 }
 
 const loadDeckConfig = async (): Promise<DeckConfig> => {
-  const markdown = await fetch('/slides.md').then((response) => response.text())
+  const markdown = await fetch('./slides.md').then((response) => response.text())
   const match = markdown.match(/<!--\s*deck-config\s*([\s\S]*?)-->/)
 
   if (!match) return defaultDeckConfig
