@@ -54,7 +54,7 @@
 既製品のトレーや引き出しを検討し、取り付ける場所と必要なねじ穴の位置を確認する。<br>
 今回は3つの製品と電動昇降脚を取り付けることにした。
 
-<img src="./image_desk/image.png" class="slide-image" style="max-height:350px; object-fit:contain;">
+<img src="./optimized/image_desk/image.png" class="slide-image" style="max-height:350px; object-fit:contain;">
 
 --
 
@@ -67,7 +67,7 @@
 <div class="two-column-slide" style="--two-column-columns: 5fr 3fr;">
 
 <div class="slide-visual">
-<img src="./image_desk/desk.jpg" class="slide-image" style="height:460px; object-fit:contain; transform:translateY(20px);">
+<img src="./optimized/image_desk/desk.jpg" class="slide-image" style="height:460px; object-fit:contain; transform:translateY(20px);">
 </div>
 
 <div class="slide-copy" style="font-size:0.8em;" >
@@ -108,7 +108,7 @@
 </div>
 
 <div class="slide-copy">
-<img src="./image_desk/shelf.jpg" class="slide-image" style="display:block; height:350px; margin:0 auto; object-fit:contain;">
+<img src="./optimized/image_desk/shelf.jpg" class="slide-image" style="display:block; height:350px; margin:0 auto; object-fit:contain;">
 
 <p style="width:fit-content; margin:0 auto; font-size:0.56em; text-align:left;">イメージの明確化や拡張モジュール(後述)の設計のために<br>3Dモデルを作成。</p>
 
@@ -147,7 +147,7 @@
 2台のPCそれぞれからデュアルモニター環境を利用できるようにした。<br>
 昇降デスクの可動域を考慮する必要があるため可能な限り天板裏に集約していく。
 
-<img src="./image_cm/image.png" class="slide-image" style="display:block; max-height:350px; margin:0 auto; object-fit:contain;">
+<img src="./optimized/image_cm/image.png" class="slide-image" style="display:block; max-height:350px; margin:0 auto; object-fit:contain;">
 
 --
 
@@ -159,10 +159,10 @@
 
 <div class="two-column-slide">
 <div class="slide-visual">
-<img src="./image_cm/image.png" class="slide-image" style="display:block; max-height:500px; margin:0 auto; object-fit:contain;">
+<img src="./optimized/image_cm/image.png" class="slide-image" style="display:block; max-height:500px; margin:0 auto; object-fit:contain;">
 </div>
 <div class="slide-visual">
-<img src="./image_cm/image2.png" class="slide-image" style="display:block; max-height:600px; margin:0 auto; object-fit:contain;">
+<img src="./optimized/image_cm/image2.png" class="slide-image" style="display:block; max-height:600px; margin:0 auto; object-fit:contain;">
 
 
 </div>
@@ -215,11 +215,11 @@ PLAシルクという素材を用いて光沢感のある仕上がりにした�
 
 <div class="three-column-slide" style="--three-column-columns: 2fr 2fr 3fr;">
   <div>
-  <img src="./image_3dp/simpletray.jpg" class="slide-image" style="display:block; max-height:350px; margin:0 auto; object-fit:contain;">
+  <img src="./optimized/image_3dp/simpletray.jpg" class="slide-image" style="display:block; max-height:350px; margin:0 auto; object-fit:contain;">
   </div>
 
   <div>
-  <img src="./image_3dp/ws.jpg" class="slide-image" style="display:block; height:260px; margin:0 auto; object-fit:contain;">
+  <img src="./optimized/image_3dp/ws.jpg" class="slide-image" style="display:block; height:260px; margin:0 auto; object-fit:contain;">
   </div>
 
   <div>
@@ -236,7 +236,7 @@ PLAシルクという素材を用いて光沢感のある仕上がりにした�
 
 <div class="two-column-slide">
 <div class="slide-copy">
-<img src="./image_3dp/usbhub.jpg" class="slide-image" style="display:block; max-height:350px; margin:0 auto; object-fit:contain;">
+<img src="./optimized/image_3dp/usbhub.jpg" class="slide-image" style="display:block; max-height:350px; margin:0 auto; object-fit:contain;">
 </div>
 <div class="slide-visual image-stack">
 <img src="./image_3dp/hub2.png" class="slide-image">
@@ -257,7 +257,7 @@ PLAシルクという素材を用いて光沢感のある仕上がりにした�
 
 <div class="two-column-slide">
 <div class="slide-copy">
-<img src="./image_3dp/mmag.jpg" class="slide-image" style="display:block; max-height:350px; margin:0 auto; object-fit:contain;">
+<img src="./optimized/image_3dp/mmag.jpg" class="slide-image" style="display:block; max-height:350px; margin:0 auto; object-fit:contain;">
 </div>
 <div class="slide-visual image-stack">
 <img src="./image_3dp/mmag_2.jpg" class="slide-image">
@@ -274,11 +274,11 @@ PLAシルクという素材を用いて光沢感のある仕上がりにした�
 
 <div class="two-column-slide">
 <div class="slide-copy">
-<img src="./image_3dp/keyb.jpg" class="slide-image" style="display:block; height:240px; margin:0 auto; object-fit:contain;">
+<img src="./optimized/image_3dp/keyb.jpg" class="slide-image" style="display:block; height:240px; margin:0 auto; object-fit:contain;">
 <p style="width:fit-content; margin:0 auto; font-size:0.56em; text-align:left;">キーボードとパームレストを収納した場合のイメージ。<br>テンキーレスキーボードを左右2つの台座で支える設計。</p>
 </div>
 <div class="slide-copy">
-<img src="./image_3dp/stand.jpg" class="slide-image" style="display:block; height:240px; margin:0 auto; object-fit:contain;">
+<img src="./optimized/image_3dp/stand.jpg" class="slide-image" style="display:block; height:240px; margin:0 auto; object-fit:contain;">
 <p style="width:fit-content; margin:0 auto; font-size:0.56em; text-align:left;">3つのパーツを組み合わせる形式で設計。パーツはねじで接続する。<br>シェルフ取付用に70mm間隔の2つのネジ穴をあけている。</p>
 </div>
 </div>
@@ -311,14 +311,14 @@ gridfinityというグリッド形式を採用した収納システムを利用�
 
 <div class="two-column-slide" style="--two-column-height: 400px;">
 <div class="slide-copy">
-<img src="./image_3dp/tray1.jpg" class="slide-image" style="display:block; height:330px; margin:0 auto; object-fit:contain;">
+<img src="./optimized/image_3dp/tray1.jpg" class="slide-image" style="display:block; height:330px; margin:0 auto; object-fit:contain;">
 
 <p style="width:fit-content; margin:0 auto; font-size:0.56em; text-align:left;">まずは引き出しの3Dモデルを作成。これをもとに仕切りを設計。<br>印刷時の誤差を加味して0.8mm程度大きめに作るのがコツ。</p>
 
 </div>
 
 <div class="slide-copy">
-<img src="./image_3dp/tray2.jpg" class="slide-image" style="display:block; height:330px; margin:0 auto; object-fit:contain;">
+<img src="./optimized/image_3dp/tray2.jpg" class="slide-image" style="display:block; height:330px; margin:0 auto; object-fit:contain;">
 
 <p style="width:fit-content; margin:0 auto; font-size:0.56em; text-align:left;">手前の傾斜を均すスペーサーを入れつつグリッドを配置。<br>左右と奥の余白は埋めてグリッドが固定されるようにする。</p>
 
@@ -335,7 +335,7 @@ gridfinityというグリッド形式を採用した収納システムを利用�
 
 <div class="two-column-slide">
 <div class="slide-copy">
-<img src="./image_3dp/image copy.png" class="slide-image" style="display:block; height:330px; margin:0 auto; object-fit:contain;">
+<img src="./optimized/image_3dp/image copy.png" class="slide-image" style="display:block; height:330px; margin:0 auto; object-fit:contain;">
 
 <p style="width:fit-content; margin:0 auto; font-size:0.56em; text-align:left;"></p>
 
