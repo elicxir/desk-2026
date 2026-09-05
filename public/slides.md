@@ -302,6 +302,24 @@ PLAシルクという素材を用いて光沢感のある仕上がりにした�
 </div>
 
 
+
+--
+## 余談
+
+現在は自作スピーカーを配置して専用のモジュールを組みなおしたのでお役御免に...
+
+<div class="two-column-slide">
+<div class="slide-copy">
+<img src="./image_3dp/IMG_0479.jpg" class="slide-image" style="display:block; height:320px; margin:0 auto; object-fit:contain;">
+<p style="width:fit-content; margin:0 auto; font-size:0.56em; text-align:left;">デスクシェルフ下に収まるスピーカーを自作<br>設計を頑張った結果大きさの割にはかなり良い音に</p>
+</div>
+<div class="slide-copy">
+<img src="./image_3dp/IMG_0476.jpg" class="slide-image" style="display:block; height:320px; margin:0 auto; object-fit:contain;">
+<p style="width:fit-content; margin:0 auto; font-size:0.56em; text-align:left;">極限の薄さのため市販のUSBハブから基盤だけ抜き取って<br>外装を3Dプリンタで作成。3mmの薄型化に成功。</p>
+</div>
+</div>
+
+
 --
 
 ## 引き出しの仕切り
